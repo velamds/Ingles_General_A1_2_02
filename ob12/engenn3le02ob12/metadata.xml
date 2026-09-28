@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><cem:cem xmlns:cem="http://ltsc.ieee.org/xsd/CEM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM lomCustom.xsd" xsi:type="cem:cem">
+  <general>
+    <language>en</language>
+    <identifier>
+      <catalog catName="edistribution" catSource="http://www.edistribution.co/">engenn3le02ob12</catalog>
+    </identifier>
+    <title lang="en" subtitle="">Lesson Test</title>
+    <description lang="en">This virtual learning object "Lesson Test" that makes part of the lesson No: 2, At the Comic Book Store, which in turn belongs to the Starter (A1.2) of the teaching of English as a Foreign Language, is intended to work on: make and respond to offers and invitations; say what you want to do, would prefer to do; ask and say what people are doing at the moment; make and respond to requests;make and respond to suggestions; say what you like or dislike. The grammar of this LO refers to: simple present in affirmative, negative and interrogative forms; modal verbs for requests, suggestions and invitations; simple present in affirmative, and interrogative forms; present continuous in affirmative, and interrogative forms; verbs with infinitives: have to, need to, (would) like to, want to; imperative: let's; Wh/Hw questions. Also, the vocabulary considers: hobbies, interests, sports; jobs and work; times of the day; days of the week;travel and transportation. Finally, the pronunciation in this LO is consonant-vowel linking; minimal pairs and consonant clusters, e.g. /ʧ/ and /ʃ/ sounds.</description>
+    <keyword lang="en">
+      <li>Simple present</li>
+	  <li>Invitations</li>
+	  <li>Purposes</li>
+	  <li>Current actions</li>
+	  <li>Imperatives</li>
+	  <li>Preferences</li>
+	  <li>Requests</li>
+    </keyword>
+  </general>
+  <lifeCycle>
+    <version date="30-04-2015">1.0</version>
+    <status>Publicado</status>
+    <contribute>
+      <role schema="CEM">Productor ejecutivo</role>
+      <entity country="CA" entityForm="24933" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Martin, Bill</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Productor ejecutivo</role>
+      <entity country="CA" entityForm="24934" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Ma, Yueh-Chin</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Productor ejecutivo</role>
+      <entity country="CA" entityForm="24935" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Zlatkin, Lial</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity country="CA" entityForm="24936" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">McMahon, Robert Christopher</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity country="CA" entityForm="24937" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Roadhouse, Sean Roy</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity country="CA" entityForm="24938" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Zlatkin, Martin</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity country="CA" entityForm="24939" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Tomlinson, Kristine Rose Seko</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity country="CA" entityForm="24940" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Kwong, Truman</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Productor ejecutivo</role>
+      <entity country="CA" entityForm="24941" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Edmonds, Jayne</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Diseñador instruccional</role>
+      <entity country="CA" entityForm="24942" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Gagliano, Rita</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity country="CA" entityForm="24943" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Gullotti, Giuliano</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity country="CA" entityForm="24944" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Ryan, Natalie</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity country="CA" entityForm="24945" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Loganathan, Chamini</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity country="CA" entityForm="24946" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Power, Anne-Louise</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity country="CA" entityForm="24947" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Vizard, Carol</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity country="CA" entityForm="24948" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Gibbs, Charles</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Diseñador gráfico</role>
+      <entity country="CA" entityForm="24952" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Pereira, Ricardo Jorge da Rocha Silva</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Diseñador gráfico</role>
+      <entity country="CA" entityForm="24953" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Romanova, Maria Alexandrovna</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Diseñador gráfico</role>
+      <entity country="CA" entityForm="24954" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Moffat, Siusan</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Diseñador gráfico</role>
+      <entity country="CA" entityForm="24955" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Wasson, Jeff</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity country="CA" entityForm="24957" institution="ELL Technologies Ltd." src="info@elltechnologies.com" type="Persona">Singh, Seema</entity>
+      <date>30-04-2015</date>
+    </contribute>
+  </lifeCycle>
+  <educational>
+    <description>
+      <recommendedUse lang="en">This digital resource can be used as an activity that allows the learner to reflect on the use of grammar of English language in different communicative contexts. The instructor can work further on activities and tasks that help learners to improve their procedural knowledge.</recommendedUse>
+      <triggerQuestion lang="en">How do my results reflect my learning process?</triggerQuestion>
+      <pedagogicalAspect lang="en">This learning object "Lesson Test" that is part of the lesson No: 2, At the Comic Book Store, which in turn belongs to the Starter (A1.2) of the teaching of English as a Foreign Language, allows the learner to develop the following topics: simple present in affirmative, negative and interrogative forms; modal verbs for requests, suggestions and invitations; simple present in affirmative, and interrogative forms; present continuous in affirmative, and interrogative forms; verbs with infinitives: have to, need to, (would) like to, want to; imperative: let's; Wh/Hw questions. It is presented within the context of make and respond to offers and invitations; say what you want to do, would prefer to do; ask and say what people are doing at the moment; make and respond to requests;make and respond to suggestions; say what you like or dislike. The student will be exposed to vocabulary related to: hobbies, interests, sports; jobs and work; times of the day; days of the week;travel and transportation. Finally, the pronunciation in this LO is: consonant-vowel linking; minimal pairs and consonant clusters, e.g. /ʧ/ and /ʃ/ sounds. Learners will develop their language skills by using an online content as well as the guidance of a SENA instructor.</pedagogicalAspect>
+      <learningGoal lang="en">The purpose of this learning object is to accurately use information, involving apologies, thanks, suggestions and invitations in communicative situations; accurately explain information about interests, hobbies, and preferences in communicative situations.</learningGoal>
+    </description>
+  </educational>
+<relation>
+        <kind schema="">Es parte de</kind>
+        <resource>
+            <identifier>
+                <catalog catName="" catSource="">engenn3le02</catalog>
+            </identifier>
+            <description lang="">This lesson: "At the Comic Book Store" belongs to Starter (A1.2). It is composed of twelve learning objects, that have the following learning outcomes: accurately use information, involving apologies, thanks, suggestions and invitations in communicative situations; accurately explain information about interests, hobbies, and preferences in communicative situations. On the other hand, the communicative functions of this lesson are: make and respond to offers and invitations; say what you want to do, would prefer to do; ask and say what people are doing at the moment; make and respond to requests; make and respond to suggestions; say what you like or dislike.</description>
+        </resource>
+</relation></cem:cem>
